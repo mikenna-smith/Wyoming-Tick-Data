@@ -1,0 +1,12 @@
+name: wy-tick-app
+title: wy-tick-app
+username: mikenna-smith
+account: mikenna-smith
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17313017
+bundleId: 11960235
+url: https://mikenna-smith.shinyapps.io/wy-tick-app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

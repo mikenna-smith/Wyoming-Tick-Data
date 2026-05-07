@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.csv
+wy-tick-app/data/tick_data.csv
